@@ -10,3 +10,6 @@ Following are 10 iconic, widely recognized mathematical / physical results, each
 -   a MathJax-ready LaTeX block you can drop straight into Markdown Monster / Documentation Monster
 
 I’ve leaned toward things that are instantly familiar to mathematicians and resonate culturally, not obscure lemmas that only live in footnotes.
+
+## Additional Information
+For additional information about **MathJax,** used to create the examples that follow, visit the official <a href="https://www.mathjax.org/" target="_blank">**MathJax**</a> website.

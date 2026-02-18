@@ -11,125 +11,213 @@
       "displayType": "index",
       "type": "markdown",
       "isExpanded": true,
-      "updated": "2026-02-17T19:42:19.2045243-06:00",
+      "updated": "2026-02-17T20:41:18.8689022-06:00",
       "classInfo": {},
       "topics": [
         {
-          "id": "_nvumfpefg2",
+          "id": "_6dy6ummy7b",
           "parentId": "_index",
-          "title": "Einstein’s Mass–Energy Equivalence",
-          "slug": "MathJax-Gallery/Einsteins-MassEnergy-Equivalence",
-          "link": "MathJax-Gallery/Einsteins-MassEnergy-Equivalence.md",
-          "displayType": "topic",
+          "title": "Classical Geometry",
+          "slug": "MathJax-Gallery/Classical-Geometry",
+          "link": "MathJax-Gallery/Classical-Geometry.md",
+          "displayType": "header",
           "type": "markdown",
           "sortOrder": 70,
-          "updated": "2026-02-17T19:57:26.8830105-06:00",
-          "classInfo": {}
+          "isExpanded": true,
+          "updated": "2026-02-17T20:44:28.2752087-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_gahs3mtn0f",
+              "parentId": "_6dy6ummy7b",
+              "title": "The Pythagorean Theorem",
+              "slug": "MathJax-Gallery/Classical-Geometry/The-Pythagorean-Theorem",
+              "link": "MathJax-Gallery/Classical-Geometry/The-Pythagorean-Theorem.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-17T19:58:23.3559222-06:00",
+              "classInfo": {}
+            }
+          ]
         },
         {
-          "id": "_gahs3mtn0f",
+          "id": "_78kc277ibu",
           "parentId": "_index",
-          "title": "The Pythagorean Theorem",
-          "slug": "MathJax-Gallery/The-Pythagorean-Theorem",
-          "link": "MathJax-Gallery/The-Pythagorean-Theorem.md",
-          "displayType": "topic",
+          "title": "Analysis and Calculus",
+          "slug": "MathJax-Gallery/Analysis-and-Calculus-1",
+          "link": "MathJax-Gallery/Analysis-and-Calculus-1.md",
+          "displayType": "header",
           "type": "markdown",
           "sortOrder": 60,
-          "updated": "2026-02-17T19:58:23.3559222-06:00",
-          "classInfo": {}
+          "isExpanded": true,
+          "updated": "2026-02-17T20:46:23.7692841-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_o0xa6so6h9",
+              "parentId": "_78kc277ibu",
+              "title": "Euler’s Identity",
+              "slug": "MathJax-Gallery/Analysis-and-Calculus-1/Eulers-Identity",
+              "link": "MathJax-Gallery/Analysis-and-Calculus-1/Eulers-Identity.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 10,
+              "updated": "2026-02-17T19:59:28.2867136-06:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_dfqh857o8z",
+              "parentId": "_78kc277ibu",
+              "title": "Fundamental Theorem of Calculus",
+              "slug": "MathJax-Gallery/Analysis-and-Calculus-1/Fundamental-Theorem-of-Calculus",
+              "link": "MathJax-Gallery/Analysis-and-Calculus-1/Fundamental-Theorem-of-Calculus.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 20,
+              "updated": "2026-02-17T20:00:56.1980484-06:00",
+              "classInfo": {}
+            }
+          ]
         },
         {
-          "id": "_o0xa6so6h9",
+          "id": "_j22n06xd89",
           "parentId": "_index",
-          "title": "Euler’s Identity",
-          "slug": "MathJax-Gallery/Eulers-Identity",
-          "link": "MathJax-Gallery/Eulers-Identity.md",
-          "displayType": "topic",
+          "title": "Number Theory",
+          "slug": "MathJax-Gallery/Number-Theory",
+          "link": "MathJax-Gallery/Number-Theory.md",
+          "displayType": "header",
           "type": "markdown",
           "sortOrder": 50,
-          "updated": "2026-02-17T19:59:28.2867136-06:00",
-          "classInfo": {}
+          "isExpanded": true,
+          "updated": "2026-02-17T20:48:41.3012692-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_y97wtwdq8d",
+              "parentId": "_j22n06xd89",
+              "title": "The Prime Number Theorem",
+              "slug": "MathJax-Gallery/Number-Theory/The-Prime-Number-Theorem",
+              "link": "MathJax-Gallery/Number-Theory/The-Prime-Number-Theorem.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 10,
+              "updated": "2026-02-17T20:14:24.9521918-06:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_dk22j3r2h7",
+              "parentId": "_j22n06xd89",
+              "title": "The Riemann Hypothesis (Conjecture)",
+              "slug": "MathJax-Gallery/Number-Theory/The-Riemann-Hypothesis-Conjecture",
+              "link": "MathJax-Gallery/Number-Theory/The-Riemann-Hypothesis-Conjecture.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-17T20:17:48.2158195-06:00",
+              "classInfo": {}
+            }
+          ]
         },
         {
-          "id": "_dfqh857o8z",
+          "id": "_b2ej2hqoe9",
           "parentId": "_index",
-          "title": "Fundamental Theorem of Calculus",
-          "slug": "MathJax-Gallery/Fundamental-Theorem-of-Calculus",
-          "link": "MathJax-Gallery/Fundamental-Theorem-of-Calculus.md",
-          "displayType": "topic",
+          "title": "Probability & Statistics",
+          "slug": "MathJax-Gallery/Probability-Statistics",
+          "link": "MathJax-Gallery/Probability-Statistics.md",
+          "displayType": "header",
           "type": "markdown",
           "sortOrder": 40,
-          "updated": "2026-02-17T20:00:56.1980484-06:00",
-          "classInfo": {}
+          "isExpanded": true,
+          "updated": "2026-02-17T20:52:45.4774681-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_nkdk6e7nht",
+              "parentId": "_b2ej2hqoe9",
+              "title": "Bayes’ Theorem",
+              "slug": "MathJax-Gallery/Probability-Statistics/Bayes-Theorem",
+              "link": "MathJax-Gallery/Probability-Statistics/Bayes-Theorem.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-17T20:20:13.6347488-06:00",
+              "classInfo": {}
+            }
+          ]
         },
         {
-          "id": "_oue5o04i7b",
+          "id": "_y67i9z2fap",
           "parentId": "_index",
-          "title": "Newton’s Second Law of Motion",
-          "slug": "MathJax-Gallery/Newtons-Second-Law-of-Motion",
-          "link": "MathJax-Gallery/Newtons-Second-Law-of-Motion.md",
-          "displayType": "topic",
+          "title": "Classical Physics",
+          "slug": "MathJax-Gallery/Classical-Physics-1",
+          "link": "MathJax-Gallery/Classical-Physics-1.md",
+          "displayType": "header",
           "type": "markdown",
           "sortOrder": 30,
-          "updated": "2026-02-17T20:02:26.0120108-06:00",
-          "classInfo": {}
+          "isExpanded": true,
+          "updated": "2026-02-17T20:53:52.8214414-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_oue5o04i7b",
+              "parentId": "_y67i9z2fap",
+              "title": "Newton’s Second Law of Motion",
+              "slug": "MathJax-Gallery/Classical-Physics-1/Newtons-Second-Law-of-Motion",
+              "link": "MathJax-Gallery/Classical-Physics-1/Newtons-Second-Law-of-Motion.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 10,
+              "updated": "2026-02-17T20:02:26.0120108-06:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_uq7y4eod7q",
+              "parentId": "_y67i9z2fap",
+              "title": "Gauss’s Law (Integral Form)",
+              "slug": "MathJax-Gallery/Classical-Physics-1/Gausss-Law-Integral-Form",
+              "link": "MathJax-Gallery/Classical-Physics-1/Gausss-Law-Integral-Form.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-17T20:12:10.4631602-06:00",
+              "classInfo": {}
+            }
+          ]
         },
         {
-          "id": "_uq7y4eod7q",
+          "id": "_366euo006b",
           "parentId": "_index",
-          "title": "Gauss’s Law (Integral Form)",
-          "slug": "MathJax-Gallery/Gausss-Law-Integral-Form",
-          "link": "MathJax-Gallery/Gausss-Law-Integral-Form.md",
-          "displayType": "topic",
+          "title": "Modern Physics",
+          "slug": "MathJax-Gallery/Modern-Physics",
+          "link": "MathJax-Gallery/Modern-Physics.md",
+          "displayType": "header",
           "type": "markdown",
-          "sortOrder": 20,
-          "updated": "2026-02-17T20:12:10.4631602-06:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_y97wtwdq8d",
-          "parentId": "_index",
-          "title": "The Prime Number Theorem",
-          "slug": "MathJax-Gallery/The-Prime-Number-Theorem",
-          "link": "MathJax-Gallery/The-Prime-Number-Theorem.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "sortOrder": 10,
-          "updated": "2026-02-17T20:14:24.9521918-06:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_dk22j3r2h7",
-          "parentId": "_index",
-          "title": "The Riemann Hypothesis (Conjecture)",
-          "slug": "MathJax-Gallery/The-Riemann-Hypothesis-Conjecture",
-          "link": "MathJax-Gallery/The-Riemann-Hypothesis-Conjecture.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "updated": "2026-02-17T20:17:48.2158195-06:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_nkdk6e7nht",
-          "parentId": "_index",
-          "title": "Bayes’ Theorem",
-          "slug": "MathJax-Gallery/Bayes-Theorem",
-          "link": "MathJax-Gallery/Bayes-Theorem.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "updated": "2026-02-17T20:20:13.6347488-06:00",
-          "classInfo": {}
-        },
-        {
-          "id": "_hib9qrq3ap",
-          "parentId": "_index",
-          "title": "The Schrödinger Equation (Time-Dependent)",
-          "slug": "MathJax-Gallery/Bayes-Theorem/The-Schrödinger-Equation-Time-Dependent",
-          "link": "MathJax-Gallery/Bayes-Theorem/The-Schrödinger-Equation-Time-Dependent.md",
-          "displayType": "topic",
-          "type": "markdown",
-          "updated": "2026-02-17T20:22:33.7261871-06:00",
-          "classInfo": {}
+          "sortOrder": 29,
+          "isExpanded": true,
+          "updated": "2026-02-17T20:55:03.5396753-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_nvumfpefg2",
+              "parentId": "_366euo006b",
+              "title": "Einstein’s Mass–Energy Equivalence",
+              "slug": "MathJax-Gallery/Modern-Physics/Einsteins-MassEnergy-Equivalence",
+              "link": "MathJax-Gallery/Modern-Physics/Einsteins-MassEnergy-Equivalence.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "sortOrder": 10,
+              "updated": "2026-02-17T19:57:26.8830105-06:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_hib9qrq3ap",
+              "parentId": "_366euo006b",
+              "title": "The Schrödinger Equation (Time-Dependent)",
+              "slug": "MathJax-Gallery/Modern-Physics/The-Schrödinger-Equation-Time-Dependent",
+              "link": "MathJax-Gallery/Modern-Physics/The-Schrödinger-Equation-Time-Dependent.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-17T20:38:20.600703-06:00",
+              "classInfo": {}
+            }
+          ]
         }
       ]
     }
