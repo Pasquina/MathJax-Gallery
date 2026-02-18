@@ -10,7 +10,6 @@
       "link": "MathJax-Gallery.md",
       "displayType": "index",
       "type": "markdown",
-      "isExpanded": true,
       "updated": "2026-02-17T20:41:18.8689022-06:00",
       "classInfo": {},
       "topics": [
@@ -23,7 +22,6 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 70,
-          "isExpanded": true,
           "updated": "2026-02-17T21:07:49.8621412-06:00",
           "classInfo": {},
           "topics": [
@@ -49,8 +47,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 60,
-          "isExpanded": true,
-          "updated": "2026-02-17T21:27:17.9228858-06:00",
+          "updated": "2026-02-17T21:34:14.2357015-06:00",
           "classInfo": {},
           "topics": [
             {
@@ -88,8 +85,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 50,
-          "isExpanded": true,
-          "updated": "2026-02-17T20:48:41.3012692-06:00",
+          "updated": "2026-02-17T21:51:25.7327901-06:00",
           "classInfo": {},
           "topics": [
             {
@@ -126,8 +122,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 40,
-          "isExpanded": true,
-          "updated": "2026-02-17T20:52:45.4774681-06:00",
+          "updated": "2026-02-17T22:24:30.4090733-06:00",
           "classInfo": {},
           "topics": [
             {
@@ -152,8 +147,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 30,
-          "isExpanded": true,
-          "updated": "2026-02-17T20:53:52.8214414-06:00",
+          "updated": "2026-02-17T22:58:04.6672177-06:00",
           "classInfo": {},
           "topics": [
             {
@@ -190,8 +184,7 @@
           "displayType": "header",
           "type": "markdown",
           "sortOrder": 29,
-          "isExpanded": true,
-          "updated": "2026-02-17T20:55:03.5396753-06:00",
+          "updated": "2026-02-17T22:58:12.653583-06:00",
           "classInfo": {},
           "topics": [
             {
@@ -214,7 +207,7 @@
               "link": "MathJax-Gallery/Modern-Physics/The-Schrödinger-Equation-Time-Dependent.md",
               "displayType": "topic",
               "type": "markdown",
-              "updated": "2026-02-17T20:58:33.2694411-06:00",
+              "updated": "2026-02-17T22:59:27.8471917-06:00",
               "classInfo": {}
             }
           ]
@@ -252,7 +245,8 @@
       "dataview": "Data view"
     },
     "webSiteBaseUrl": "",
-    "relativeBaseUrl": "/",
+    "relativeBaseUrl": "/mathjaxgallery/",
+    "webSiteHomeUrl": "https://DocLib.VyDevSoft.com",
     "supportEmail": "support@yoursite.com",
     "upload": {
       "maxUploadConnections": 5

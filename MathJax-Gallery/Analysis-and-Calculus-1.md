@@ -17,6 +17,9 @@ Calculus and analysis are intimately related branches of mathematics focusing on
 -   **Complex Analysis:** Study of complex-valued functions.
 -   **Functional Analysis:** Analysis on abstract, higher-dimensional spaces.
 
->While some contexts, particularly in Eastern Europe, treat them similarly as "mathematical analysis," many Western curricula distinguish them by difficulty and focus on proof.
+:::info
+While some contexts, particularly in Eastern Europe, treat them similarly as "mathematical analysis," many Western curricula distinguish them by difficulty and focus on proof.
+:::
+
 ---
 Text created by Google AI, edited for brevity and clarity
