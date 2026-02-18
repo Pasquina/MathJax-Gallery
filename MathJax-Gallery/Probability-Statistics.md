@@ -20,7 +20,8 @@ Probability and statistics are closely linked mathematical disciplines used to a
 -   **Conditional Probability:** $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
 -   **Hypothesis Testing:** A key inferential method to determine if data results are significant or due to chance. 
 
-## Relationship in Data Science  
+## Relationship in Data Science
 Probability acts as the framework for understanding uncertainty, while statistics is the application of these concepts to real-world data. Data professionals use these methods for predictive modeling, such as forecasting business profits or analyzing trends.
+
 ---
 Text created by Google AI, edited for brevity and clarity
