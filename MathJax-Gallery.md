@@ -1,12 +1,12 @@
-## Welcome to your new Documentation Project
+## A Demonstration of Math Using Markdown Monster and Documentation Monster
 
-Here are a few tips to get started:
+Using Documentation Monster, based on Markdown Monster, this short gallery of well-known math equations demonstrates how mathematical formula are easily incorporated into a Documentation Monster topic,
 
-* Press **ctrl-n** to create a new Topic
-* Enter text into the main text area using [Markdown formatting](https://documentationmonster.west-wind.com)
-* Use the Topic Editor on the right to enter topic data
-* Use drag and drop in the Topic tree to move topics around
-* Use the Image toolbar icon to select images from disk
-* Paste images from from the clipboard into your text
+## ChatGPT Suggested Tests
 
-Time to get going!
+Following are 10 iconic, widely recognized mathematical / physical results, each with:
+
+-   a short description (glossary-style)
+-   a MathJax-ready LaTeX block you can drop straight into Markdown Monster / Documentation Monster
+
+I’ve leaned toward things that are instantly familiar to mathematicians and resonate culturally, not obscure lemmas that only live in footnotes.

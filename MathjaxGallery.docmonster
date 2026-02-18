@@ -10,8 +10,128 @@
       "link": "MathJax-Gallery.md",
       "displayType": "index",
       "type": "markdown",
-      "updated": "2026-02-17T19:36:23.2909197-06:00",
-      "classInfo": {}
+      "isExpanded": true,
+      "updated": "2026-02-17T19:42:19.2045243-06:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_nvumfpefg2",
+          "parentId": "_index",
+          "title": "Einstein’s Mass–Energy Equivalence",
+          "slug": "MathJax-Gallery/Einsteins-MassEnergy-Equivalence",
+          "link": "MathJax-Gallery/Einsteins-MassEnergy-Equivalence.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 70,
+          "updated": "2026-02-17T19:57:26.8830105-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_gahs3mtn0f",
+          "parentId": "_index",
+          "title": "The Pythagorean Theorem",
+          "slug": "MathJax-Gallery/The-Pythagorean-Theorem",
+          "link": "MathJax-Gallery/The-Pythagorean-Theorem.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 60,
+          "updated": "2026-02-17T19:58:23.3559222-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_o0xa6so6h9",
+          "parentId": "_index",
+          "title": "Euler’s Identity",
+          "slug": "MathJax-Gallery/Eulers-Identity",
+          "link": "MathJax-Gallery/Eulers-Identity.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 50,
+          "updated": "2026-02-17T19:59:28.2867136-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_dfqh857o8z",
+          "parentId": "_index",
+          "title": "Fundamental Theorem of Calculus",
+          "slug": "MathJax-Gallery/Fundamental-Theorem-of-Calculus",
+          "link": "MathJax-Gallery/Fundamental-Theorem-of-Calculus.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 40,
+          "updated": "2026-02-17T20:00:56.1980484-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_oue5o04i7b",
+          "parentId": "_index",
+          "title": "Newton’s Second Law of Motion",
+          "slug": "MathJax-Gallery/Newtons-Second-Law-of-Motion",
+          "link": "MathJax-Gallery/Newtons-Second-Law-of-Motion.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 30,
+          "updated": "2026-02-17T20:02:26.0120108-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_uq7y4eod7q",
+          "parentId": "_index",
+          "title": "Gauss’s Law (Integral Form)",
+          "slug": "MathJax-Gallery/Gausss-Law-Integral-Form",
+          "link": "MathJax-Gallery/Gausss-Law-Integral-Form.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 20,
+          "updated": "2026-02-17T20:12:10.4631602-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_y97wtwdq8d",
+          "parentId": "_index",
+          "title": "The Prime Number Theorem",
+          "slug": "MathJax-Gallery/The-Prime-Number-Theorem",
+          "link": "MathJax-Gallery/The-Prime-Number-Theorem.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 10,
+          "updated": "2026-02-17T20:14:24.9521918-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_dk22j3r2h7",
+          "parentId": "_index",
+          "title": "The Riemann Hypothesis (Conjecture)",
+          "slug": "MathJax-Gallery/The-Riemann-Hypothesis-Conjecture",
+          "link": "MathJax-Gallery/The-Riemann-Hypothesis-Conjecture.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2026-02-17T20:17:48.2158195-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_nkdk6e7nht",
+          "parentId": "_index",
+          "title": "Bayes’ Theorem",
+          "slug": "MathJax-Gallery/Bayes-Theorem",
+          "link": "MathJax-Gallery/Bayes-Theorem.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2026-02-17T20:20:13.6347488-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_hib9qrq3ap",
+          "parentId": "_index",
+          "title": "The Schrödinger Equation (Time-Dependent)",
+          "slug": "MathJax-Gallery/Bayes-Theorem/The-Schrödinger-Equation-Time-Dependent",
+          "link": "MathJax-Gallery/Bayes-Theorem/The-Schrödinger-Equation-Time-Dependent.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "updated": "2026-02-17T20:22:33.7261871-06:00",
+          "classInfo": {}
+        }
+      ]
     }
   ],
   "settings": {
